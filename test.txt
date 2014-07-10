@@ -1,0 +1,3 @@
+Welcome to test.txt
+This was modified by ex16.py
+Have a nice day.
